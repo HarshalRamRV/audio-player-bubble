@@ -113,7 +113,7 @@
                 '<circle class="precache-bar" cx="50" cy="50" r="47.45" stroke="#302F32" stroke-opacity="0.25" stroke-linecap="round" fill="none" stroke-width="5" transform="rotate(-90 50 50)"/>',
                 '<circle class="progress-bar" cx="50" cy="50" r="47.45" stroke="#009EF8" stroke-opacity="1" stroke-linecap="round" fill="none" stroke-width="5" transform="rotate(-90 50 50)"/>',
                 '</g>',
-                '<circle class="controls" cx="50" cy="50" r="45" stroke="none" fill="#000000" opacity="0.0" pointer-events="all"/>',
+                '<circle class="controls" cx="50" cy="50" r="45" stroke="none" fill="#009EF8" opacity="0.0" pointer-events="all"/>',
                 '<g class="control pause">',
                 '<line x1="40" y1="35" x2="40" y2="65" stroke="#009EF8" fill="none" stroke-width="8" stroke-linecap="round"/>',
                 '<line x1="60" y1="35" x2="60" y2="65" stroke="#009EF8" fill="none" stroke-width="8" stroke-linecap="round"/>',

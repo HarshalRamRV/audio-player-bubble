@@ -115,14 +115,14 @@
                 '</g>',
                 '<circle class="controls" cx="50" cy="50" r="45" stroke="none" fill="#000000" opacity="0.0" pointer-events="all"/>',
                 '<g class="control pause">',
-                '<line x1="40" y1="35" x2="40" y2="65" stroke="#000000" fill="none" stroke-width="8" stroke-linecap="round"/>',
-                '<line x1="60" y1="35" x2="60" y2="65" stroke="#000000" fill="none" stroke-width="8" stroke-linecap="round"/>',
+                '<line x1="40" y1="35" x2="40" y2="65" stroke="#009EF8" fill="none" stroke-width="8" stroke-linecap="round"/>',
+                '<line x1="60" y1="35" x2="60" y2="65" stroke="#009EF8" fill="none" stroke-width="8" stroke-linecap="round"/>',
                 '</g>',
                 '<g class="control play">',
                 '<polygon points="45,35 65,50 45,65" fill="#009EF8" stroke-width="0"></polygon>',
                 '</g>',
                 '<g class="control stop">',
-                '<rect x="35" y="35" width="30" height="30" stroke="#000000" fill="none" stroke-width="1"/>',
+                '<rect x="35" y="35" width="30" height="30" stroke="#009EF8" fill="none" stroke-width="1"/>',
                 '</g>',
                 '</svg>'];
 
